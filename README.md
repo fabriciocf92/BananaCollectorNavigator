@@ -42,7 +42,7 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 The goal of achieving an average score of +13 over 100 consecutive episodes was successfully reached in episode 542. The agent's learning progress is visualized in the following plots:
 
 ![Score by Episode](score_by_episode.png)
-- The first plot displays the agent's score by episode, showcasing its progress in collecting yellow bananas and avoiding blue ones.
+- The agent's score by episode, showcasing its progress in collecting yellow bananas and avoiding blue ones.
 
 ![Average Score of Last 100 Episodes by Episode](running_score_by_episode.png)
-- The second plot illustrates the average score of the last 100 episodes by episode, providing insight into the agent's overall performance throughout the training process.
+- The plot illustrates the average score of the last 100 episodes by episode, providing insight into the agent's overall performance throughout the training process.
